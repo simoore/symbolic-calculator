@@ -1,4 +1,4 @@
-module Calculator where
+module Main where
 
 import System.IO (hFlush, stdout)
 import Lexer (tokenize)
