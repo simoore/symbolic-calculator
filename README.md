@@ -27,7 +27,7 @@ cabal install
 Execute the application with:
 
 ```
-.cabal-sanbox\bin\sym-calc
+.cabal-sandbox\bin\sym-calc
 ```
 
 ## References
