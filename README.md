@@ -33,4 +33,5 @@ Execute the application with:
 ## References
 
 [Basics of Haskell](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell)
+
 [How to Write a Haskell Program](https://wiki.haskell.org/How_to_write_a_Haskell_program)
